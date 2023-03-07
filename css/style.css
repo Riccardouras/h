@@ -56,7 +56,7 @@ a {
 }
 .pink {
     background-color: #ee82ee;
-    width: 920px ;
+    width: 50% ;
     height: 406px;
     align-self: center;
     justify-self: center;
@@ -158,11 +158,5 @@ a {
     background-color: #ffb5bf;
     width: 91px;
     height: 36px;
-}
-.start {
-    justify-content: center;
-    
-}
-.end2 {
     justify-content: center;
 }
