@@ -3,7 +3,6 @@
     padding: 0px;
     margin: 0px;
 }
-
 header {
     background-color: #add8e6;
     width: 100%;
@@ -11,23 +10,22 @@ header {
 }
 .flexcontainer{
     display: flex;
-    background-color: #daa520;
     width: 1200px;
     height: 47px;
     margin: 0px auto;
     justify-content: center;
-    margin-top: 7px;
-    margin-bottom: 14px;
-     
+    align-items: center;
+}
+.orange {
+    background-color: #daa520;
+
 }
 .size {
     width: 240px;
 }
-
-
 .center {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     width: 720px;
 }
 .border {
@@ -41,6 +39,7 @@ a {
     text-decoration: none;
     justify-content: center;
     align-items: center;
+    margin: 5px;
 }
 
 .end{
@@ -164,6 +163,6 @@ a {
     justify-content: center;
     
 }
-.end {
+.end2 {
     justify-content: center;
 }
